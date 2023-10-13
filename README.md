@@ -2,7 +2,7 @@
 
 ## ReactEvents-Tanstack-Query
 
-### URL: https://main--storied-rabanadas-8a9293.netlify.app/events
+### URL: https://main--storied-rabanadas-8a9293.netlify.app/
 
 #### In this project I worked with: 
 
